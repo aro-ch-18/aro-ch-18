@@ -31,9 +31,9 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing a B.
 
 ## 📝 Academic Background
 
-- **B.Tech in CSE (2025):** SRM Institute of Science and Technology - Modi Nagar Campus, 9.85 CGPA
-- **Class XII (2021):** Army Public School, Bengdubi, 94.4% (CBSE)
-- **Class X (2019):** Goethals Memorial School, Kurseong, 91% (ICSE)
+- **B.Tech in CSE (2025):** SRM Institute of Science and Technology - Modi Nagar Campus
+- **Class XII (2021):** Army Public School, Bengdubi
+- **Class X (2019):** Goethals Memorial School, Kurseong
 
 ## 💻 Tech Stack
 
