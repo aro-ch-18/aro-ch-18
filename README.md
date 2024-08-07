@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I'm a passionate developer currently pursuing a B.
 
 ## 📝 Academic Background
 
-- **B.Tech in CSE (2025):** SRM Institute of Science and Technology - Delhi-NCR Campus
+- **B.Tech in CSE (2025):** SRM Institute of Science and Technology, Delhi-NCR Campus
 - **Class XII (2021):** Army Public School, Bengdubi
 - **Class X (2019):** Goethals Memorial School, Kurseong
 
